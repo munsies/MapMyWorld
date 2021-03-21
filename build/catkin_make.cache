@@ -1,0 +1,2 @@
+my_robot_3:teleop_twist_keyboard
+-DCATKIN_DEVEL_PREFIX=/home/manan/Desktop/RoboticsSoftware/MapMyWorld/devel -DCMAKE_INSTALL_PREFIX=/home/manan/Desktop/RoboticsSoftware/MapMyWorld/install -G Unix Makefiles
