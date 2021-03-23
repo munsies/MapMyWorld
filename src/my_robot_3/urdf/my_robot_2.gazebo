@@ -20,7 +20,6 @@
     <odometrySource>world</odometrySource>
     <covariance_x>0.001</covariance_x>
     <covariance_y>0.001</covariance_y>
-    <covariance_yaw>0.01</covariance_yaw>
     <publishTf>1</publishTf>
     <publishOdomTF>true</publishOdomTF> 
     <broadcastTF>true</broadcastTF> 
